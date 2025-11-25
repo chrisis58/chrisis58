@@ -10,12 +10,12 @@
   <tr>
     <td align="center">
       <a href="https://github.com/chrisis58">
-        <img src="https://github-readme-stats.vercel.app/api?username=chrisis58&show_icons=true&count_private=true&theme=transparent&hide_border=true&custom_title=Github%20Status" alt="chrisi58's github stats" />
+        <img src="https://github-readme-stats-six-xi-54.vercel.app/api?username=chrisis58&show_icons=true&count_private=true&theme=transparent&hide_border=true&custom_title=Github%20Status" alt="chrisi58's github stats" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/chrisis58">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisis58&layout=compact&theme=transparent&hide_border=true" />
+        <img src="https://github-readme-stats-six-xi-54.vercel.app/api/top-langs/?username=chrisis58&layout=compact&theme=transparent&hide_border=true" />
       </a>
     </td>
   </tr>
