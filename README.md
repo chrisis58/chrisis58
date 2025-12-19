@@ -4,6 +4,7 @@
   <a href="https://wakatime.com/@chrisis58">
     <img src="https://wakatime.com/badge/user/3d54baa8-3520-4ef6-9105-cfc474c8ee28.svg" />
   </a>
+  <img src="https://img.shields.io/badge/M.Eng%20Student-June%202027-007396?style=flat&logo=bookstack&logoColor=white" />
 </p>
 
 <table align="center">
