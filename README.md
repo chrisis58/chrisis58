@@ -1,12 +1,13 @@
 # Hi, there 👋
 
-<p align="justify>
-  <a href="https://wakatime.com/@chrisis58">
-    <img src="https://wakatime.com/badge/user/3d54baa8-3520-4ef6-9105-cfc474c8ee28.svg" />
-  </a>
-  <img src="https://img.shields.io/badge/M.Eng%20Student-June%202027-007396?style=flat&logo=bookstack&logoColor=white" />
+<p align="justify">
+  <a href="https://wakatime.com/@chrisis58"><img src="https://wakatime.com/badge/user/3d54baa8-3520-4ef6-9105-cfc474c8ee28.svg" /></a>
+  <img src="https://img.shields.io/badge/M.Eng%20Student-June%202027-FFCD00?style=flat&logo=bookstack&logoColor=white" />
   <a href="https://keyserver.ubuntu.com/pks/lookup?search=D881F6D98BB8EE9A1E606E1352A2994B01972916&fingerprint=on&op=index">
     <img src="https://img.shields.io/badge/GPG-01972916-blue?logo=gnuprivacyguard" />
+  </a>
+  <a href="https://github.com/chrisis58-bot">
+    <img src="https://img.shields.io/badge/Coding%20Agent-%40chrisis58--bot-2563EB?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
